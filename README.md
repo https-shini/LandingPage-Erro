@@ -24,7 +24,7 @@ O código HTML cria uma página de erro personalizada, com uma estrutura básica
 
 ## ☆ Layout
 
-Você pode visualizar o layout do projeto e como ele funciona através do video abaixo.<br>
+Você pode visualizar o layout do projeto através da foto abaixo.<br>
 
 
 ![image](https://user-images.githubusercontent.com/100307080/229036754-d80e3c7c-4b11-4b35-b956-85f21528b930.png)
